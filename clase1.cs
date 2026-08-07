@@ -67,10 +67,12 @@ class Program{
     }
 
     //Miestra el contenido
+
     static void MostrarArreglo(int[] arreglo){
 
         foreach(int numero in arreglo){
             Console.Write(numero + " ");
         }
         Console.WriteLine()
+    }
     }
