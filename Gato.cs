@@ -7,7 +7,6 @@ public class Gato : Macota
     private bool esterilizado;
 
     // aqui hacemos el constructor de la clase gato y le pasamos los parametros de la clase padre 
-    // que no se me olvide como se hizo esto por que es lo mas practico 
 
     public Gato (string nombre, double peso, string sexo, int edad, string propietario, bool enfermo, string raza, bool esterilizado):
     base(nombre, peso, sexo, esdad, propietario)   //base es para llamar al constructor de la clase padre 
