@@ -1,0 +1,5 @@
+C:\Users\Lorena\OneDrive\Documentos\IPC2_Practica1_202112134\obj\Debug\net10.0\IPC2_Practica1_202112134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena\OneDrive\Documentos\IPC2_Practica1_202112134\obj\Debug\net10.0\IPC2_Practica1_202112134.AssemblyInfoInputs.cache
+C:\Users\Lorena\OneDrive\Documentos\IPC2_Practica1_202112134\obj\Debug\net10.0\IPC2_Practica1_202112134.AssemblyInfo.cs
+C:\Users\Lorena\OneDrive\Documentos\IPC2_Practica1_202112134\obj\Debug\net10.0\IPC2_Practica1_202112134.csproj.CoreCompileInputs.cache
+C:\Users\Lorena\OneDrive\Documentos\IPC2_Practica1_202112134\obj\Debug\net10.0\IPC2_Practica1_202112134.sourcelink.json

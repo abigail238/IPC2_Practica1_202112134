@@ -21,7 +21,7 @@ public class Ave: Mascota
 
 public bool PuedeVolar
     {
-        get{return puedevolar}
+        get{return puedevolar;}
         set{puedeVolar = value;}
     }
 
